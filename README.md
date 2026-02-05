@@ -44,4 +44,4 @@ Academic / Internship / Portfolio Project
 ---
 
 ### Dashboard Preview
-![Dashboard Screenshot](dashboard_overview.png)
+https://github.com/dhruviraichura/Mobile-Sales-POWER-BI-DASHBOARD/blob/main/dashboard_overview.png
